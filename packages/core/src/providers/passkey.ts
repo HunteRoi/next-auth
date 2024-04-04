@@ -22,7 +22,7 @@ import WebAuthn, {
  * Install the required peer dependency.
  *
  * ```npm2yarn
- * npm install @simplewebauthn/browser
+ * npm install @simplewebauthn/server
  * ```
  *
  * #### Configuration
